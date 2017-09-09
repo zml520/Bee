@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\asWorkSpace\\Bee\\library_sweetdialog\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\error_x_in.xml",
+        "source": "E:\\asWorkSpace\\Bee\\library_sweetdialog\\build\\intermediates\\bundles\\debug\\res\\anim\\error_x_in.xml"
+    },
+    {
+        "merged": "E:\\asWorkSpace\\Bee\\library_sweetdialog\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\modal_in.xml",
+        "source": "E:\\asWorkSpace\\Bee\\library_sweetdialog\\build\\intermediates\\bundles\\debug\\res\\anim\\modal_in.xml"
+    },
+    {
+        "merged": "E:\\asWorkSpace\\Bee\\library_sweetdialog\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\success_bow_roate.xml",
+        "source": "E:\\asWorkSpace\\Bee\\library_sweetdialog\\build\\intermediates\\bundles\\debug\\res\\anim\\success_bow_roate.xml"
+    },
+    {
+        "merged": "E:\\asWorkSpace\\Bee\\library_sweetdialog\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\error_frame_in.xml",
+        "source": "E:\\asWorkSpace\\Bee\\library_sweetdialog\\build\\intermediates\\bundles\\debug\\res\\anim\\error_frame_in.xml"
+    },
+    {
+        "merged": "E:\\asWorkSpace\\Bee\\library_sweetdialog\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\success_mask_layout.xml",
+        "source": "E:\\asWorkSpace\\Bee\\library_sweetdialog\\build\\intermediates\\bundles\\debug\\res\\anim\\success_mask_layout.xml"
+    },
+    {
+        "merged": "E:\\asWorkSpace\\Bee\\library_sweetdialog\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\modal_out.xml",
+        "source": "E:\\asWorkSpace\\Bee\\library_sweetdialog\\build\\intermediates\\bundles\\debug\\res\\anim\\modal_out.xml"
+    }
+]

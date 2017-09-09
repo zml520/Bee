@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\asWorkSpace\\Bee\\library_sweetdialog\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_main.xml",
+        "source": "E:\\asWorkSpace\\Bee\\library_sweetdialog\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\asWorkSpace\\Bee\\library_sweetdialog\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\alert_dialog.xml",
+        "source": "E:\\asWorkSpace\\Bee\\library_sweetdialog\\build\\intermediates\\bundles\\debug\\res\\layout\\alert_dialog.xml"
+    }
+]
